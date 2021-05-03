@@ -1,0 +1,50 @@
+.travell_main div{
+	border: 1px solid #c7c7c7;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none;
+	
+}
+
+.travell_main div img{
+	width: 100px;
+	
+}
+
+.travell_main div hr{
+	width: 230px;	
+}
+
+.travell_main div h5,.travell_main div {
+	margin-left: 20px;
+	
+	
+}
+.movie_head{
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+.environment_li
+{
+	margin-top: 13px;
+	
+}
+
+.environment_li h4{
+	border-bottom: 1px soild white;
+	padding: 8px;
+	
+}
